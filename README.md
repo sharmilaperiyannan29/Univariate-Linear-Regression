@@ -48,9 +48,10 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot([min(X), max(X)],[min(Y_pred), max(Y_pred)],color='red')
 plt.show()
-
-
 ```
+
+
+
 ## Output
 <img width="761" height="716" alt="Screenshot 2026-02-14 092049" src="https://github.com/user-attachments/assets/468a288b-273e-4841-b22a-cd7ae42d9e61" />
 <img width="1082" height="446" alt="Screenshot 2026-02-14 092113" src="https://github.com/user-attachments/assets/a726d499-5c4e-4ca4-99d5-a283dd49afa7" />
